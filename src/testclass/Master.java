@@ -8,6 +8,8 @@ public class Master {
 		d.eat();
 		d.sleep();
 		d.guard();
+		String brak=d.brak();
+		System.out.println(brak);
 		
 		
 	}

@@ -4,6 +4,9 @@ public class Pet {
 	private String name;
 	private int age;
 	private String type;
+	public String brak(){
+		return "Íô";
+	}
 	public void eat(){
 		System.out.println(name+"ÕıÔÚ³Ô");
 	}
